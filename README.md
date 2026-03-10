@@ -1,2 +1,2 @@
 # Progamacion-Cplusplus
-Prácticas y proyectos relacionados al lenguaje C++.
+Prácticas y proyectos introductorios al lenguaje C++.
